@@ -1,0 +1,4 @@
+
+Materia    Calificacion1    Calificacion2    Calificacion3  Promedio
+Matematicas          7              8               8            7.67
+Español          8              9               9            8.67
